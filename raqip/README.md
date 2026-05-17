@@ -94,7 +94,3 @@ Recommended update for all users
 ---
 
 ## 📥 Download Section
-
-<a href="https://github.com/fifikoridek2-boop/akio-api/releases/download/v1.2.0/app.apk">
-  <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge" />
-</a>
