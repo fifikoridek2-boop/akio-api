@@ -1,4 +1,4 @@
-<!-- VERSION: 1.2.0 -->
+<!-- VERSION: 2.0.0 -->
 <!-- DOWNLOAD: https://github.com/fifikoridek2-boop/akio-api/releases/download/v1.2.0/app.apk -->
 
 # 🚀 Update 1.2.0 | تحديث 1.2.0
