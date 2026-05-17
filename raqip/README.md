@@ -11,20 +11,32 @@
 ### ✨ الجديد
 - تحسين الأداء بشكل كبير داخل التطبيق
 - إصلاح مشاكل تسجيل الدخول
-- تحسين تجربة المستخدم بشكل عام
+- تحسين تجربة المستخدم
 
 ### 📊 معلومات
 > هذا التحديث مهم لتحسين الاستقرار
 
-### 🧩 جدول تغييرات
+### 🧩 جدول التغييرات
 | العنصر | الحالة |
 |--------|--------|
 | الأداء | محسّن |
 | الأخطاء | تم إصلاحها |
 | الواجهة | مطورة |
 
-### 🖼 صورة توضيحية
-![Preview](https://via.placeholder.com/600x300)
+---
+
+### 🖼 صور حقيقية
+
+![Android UI](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=900)
+![Coding Screen](https://images.unsplash.com/photo-1526498460520-4c246339dccb?w=900)
+
+---
+
+### 🎥 فيديو توضيحي
+
+[![Watch Video](https://img.youtube.com/vi/ScMzIvxBSi4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ScMzIvxBSi4)
+
+---
 
 ### 🔗 روابط
 - [زيارة الموقع](https://example.com)
@@ -42,10 +54,12 @@
 ### ✨ What's New
 - Major performance improvements
 - Fixed login issues
-- Better overall user experience
+- Better user experience
 
 ### 📊 Info
-> This update improves system stability
+> This update improves stability
+
+---
 
 ### 🧩 Changelog Table
 | Feature | Status |
@@ -54,15 +68,27 @@
 | Bugs | Fixed |
 | UI | Enhanced |
 
-### 🖼 Preview Image
-![Preview](https://via.placeholder.com/600x300)
+---
+
+### 🖼 Real Images
+
+![Android UI](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=900)
+![Coding Screen](https://images.unsplash.com/photo-1526498460520-4c246339dccb?w=900)
+
+---
+
+### 🎥 Video Preview
+
+[![Watch Video](https://img.youtube.com/vi/ScMzIvxBSi4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ScMzIvxBSi4)
+
+---
 
 ### 🔗 Links
 - [Visit Website](https://example.com)
 - [Support](https://example.com/support)
 
 ### 💡 Note
-This update is recommended for all users
+Recommended update for all users
 <!-- TEXT_EN_END -->
 
 ---
